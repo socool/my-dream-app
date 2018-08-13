@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a133f23-c712-43ad-8584-38e71ef63269" name="Default" comment="" />
+    <list default="true" id="4a133f23-c712-43ad-8584-38e71ef63269" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="842">
+              <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -19,6 +32,7 @@
       <find>angular.js.tmproj</find>
       <find>node_modules</find>
       <find>yarn.lock</find>
+      <find>npm-debug.log</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -56,11 +70,6 @@
           <expand>
             <path>
               <item name="my-dream-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-dream-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-dream-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-dream-app" type="462c0819:PsiDirectoryNode" />
               <item name="my-dream-app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -144,6 +153,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1386" y="66" width="1814" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -174,8 +184,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="842">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
         </state>
       </provider>
     </entry>
